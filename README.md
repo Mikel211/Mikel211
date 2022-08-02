@@ -11,15 +11,18 @@
 #### - Linkedin : [Visit Now](https://www.linkedin.com/in/mikel-yousef-61530719b)
 
 
-#### - My email :  [Send Now](mikelyousef99@gmail.com)
-
-
 #### - Telegram :  [Join Now](https://t.me/mikel211)
+
 
 
 #### - My website :  Soon...
 
+
+#### - My email :  mikelyousef99@gmail.com
+
 #
 ```
 •  Mikel Yousef 
+
 ```
+#
