@@ -8,20 +8,16 @@
 
 ### Contact info 
 - Linkedin :
-
 https://www.linkedin.com/in/mikel-yousef-61530719b
 
 
 - My email :
-
 mikelyousef99@gmail.com
 
 
 - Telegram :
-
 https://t.me/mikel211
 
 
 - My website : 
-
 Soon...
