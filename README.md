@@ -8,15 +8,15 @@
 
 # Contact info 
 
-#### - LinkedIn : [Visit Now](https://www.linkedin.com/in/mikel-yousef-61530719b)
+####  LinkedIn : [Visit Now](https://www.linkedin.com/in/mikel-yousef-61530719b)
 
 
-#### - Telegram :  [Join Now](https://t.me/mikel211)
+####  Telegram :  [Join Now](https://t.me/mikel211)
 
 
 
-#### - Website :  Soon...
+####  Website :  Soon...
 
 
-#### - Email :  mikelyousef99@gmail.com
+####  Email :  mikelyousef99@gmail.com
 
