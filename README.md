@@ -1,17 +1,18 @@
 
 # Hi, I'm Mikel 👋 
 
-<img src="https://github.com/mikelyousef/mikelyousef/blob/main/header-01.jpg" alt="This banner says Mikel Yousef - Flutter App Developer & Wordpress Developer">
-I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. In 2020, I was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the React ecosystem led me to launch <a href="https://www.reactrobins.com/">React Robins</a>, a community for women and non-binary ReactJS developers.
+<img src="https://github.com/mikelyousef/mikelyousef/blob/main/header-01.jpg" alt="This banner says Mikel Yousef - Flutter App Developer ">
+I'm Software engineer, Located in Minya, Computer Science passionate about Mobile Programming with 1-year experience in mobile development with Flutter Looking for opportunities as a software developer with a team of developers who will help advance my career progression to senior positions in the future, I Want a highly rewarding career where I can use my skills and knowledge for organizational.
 
-# About Me :  
-   I’m currently learning : Node.js
+### Contact info 
+- Linkedin :
+https://www.linkedin.com/in/mikel-yousef-61530719b
 
-   I’m looking to collaborate on my webpage
+- My email :
+mikelyousef99@gmail.com
 
-   I’m Not looking for help
+- Telegram :
+https://t.me/mikel211
 
-   Ask me about for any help
-
-   How to reach me:  
-  Mail me at "sfsanirudh@gmail.com" 
+- My website : 
+   Soon...
