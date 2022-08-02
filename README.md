@@ -6,18 +6,19 @@
    opportunities as a software developer with a team of developers who will help advance my career progression to senior positions in the future, I Want a highly  
    rewarding career where I can use my skills and knowledge for organizational.
 
-### Contact info 
-- Linkedin :
+# Contact info 
+
+#### - Linkedin :
 https://www.linkedin.com/in/mikel-yousef-61530719b
 
 
-- My email :
+#### - My email :
 mikelyousef99@gmail.com
 
 
-- Telegram :
+#### - Telegram :
 https://t.me/mikel211
 
 
-- My website : 
+#### - My website : 
 Soon...
